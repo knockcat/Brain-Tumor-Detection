@@ -8,7 +8,7 @@ https://brain-tumor-detection.streamlit.app/
 
 ## Dataset for Training the Model
 To train the model, we used the MRI brain tumor dataset. You can download the dataset containing Images from the following link:
-[Download Dataset](https://drive.google.com/drive/folders/1BXeQQJL8XU3DkZ-QyhPzoPSCod_JaBgX?usp=drive_link)
+[Download Dataset](https://drive.google.com/drive/folders/1ApUDR212yoOERKMZC9mG7Y4qaN1WpnOn?usp=sharing)
 
 ## Model Training
 To train the model, follow the steps outlined in the [`main.ipynb`](main.ipynb) file.
