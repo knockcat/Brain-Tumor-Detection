@@ -39,7 +39,7 @@ def main():
 
     # Add a link to download the dataset
     st.markdown(
-        "If you don't have an MRI image to test, you can download the dataset from [here](https://drive.google.com/drive/folders/10A9SXq5YATQvfywMYEgXZsVMExM8sXMq?usp=drive_link)."
+        "If you don't have an MRI image to test, you can download the dataset from [here](https://drive.google.com/drive/folders/1RQ3get2BLBcl5DXIJv9DocMQVyKCAsPq?usp=sharing)."
     )
 
 if __name__ == "__main__":
